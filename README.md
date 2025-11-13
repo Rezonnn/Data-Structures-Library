@@ -1,4 +1,4 @@
-# 📚 C++ Data Structures Library + Demo
+# 📚 C++ Data Structures Library
 
 My **C++17 data structures project** that showcases:
 
