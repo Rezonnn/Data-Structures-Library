@@ -1,6 +1,6 @@
 # 📚 C++ Data Structures Library + Demo
 
-A small, clean **C++17 data structures project** that you can put on GitHub to showcase your understanding of:
+My **C++17 data structures project** that showcases:
 
 - Custom containers
 - Templates
@@ -113,22 +113,3 @@ cpp_data_structures_lib/
 ├─ CMakeLists.txt
 └─ README.md
 ```
-
----
-
-## 🌟 Good Talking Points for Your GitHub
-
-This project shows you can:
-
-- Implement **core data structures** from scratch
-- Use **C++ templates** and header-only style containers
-- Manage memory safely via RAII (constructors/destructors)
-- Structure a small library with headers + demo
-- Build using both **g++** and **CMake**
-
-You can extend it with:
-
-- Iterators for more containers
-- Remove / delete operations on the BST
-- A doubly linked list or hash map
-- Unit tests (e.g., using Catch2 or GoogleTest)
